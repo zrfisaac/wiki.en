@@ -4,47 +4,39 @@
 <!-- # - author : Isaac Caires -->
 <!-- # . - email : zrfisaac@gmail.com -->
 <!-- # . - site : zrfisaac.github.io -->
-<!-- # - version : zrfisaac.github : 1.0.8 -->
 
 <!-- # [ markdown ] -->
-[![](https://img.shields.io/badge/resume-pdf-black?style=for-the-badge)](https://github.com/zrfisaac/zrfisaac.github.io/releases/download/resume-3.2.0/resume-3.2.0-en.pdf)
+# My Personal Wiki
 
-# 💻 Isaac Caires | Software Developer 🚀
+Welcome to my personal Wiki! This is my space to organize knowledge, ideas, and projects. Here, you'll find resources, guides, and tips that help me in my daily life, as well as an overview of my interests and achievements.
 
-Hi! I'm Isaac Caires, a systems analyst and software developer from Brazil, with over 15 years of experience in full-stack development, ERP systems, and hospital management solutions. I’m currently working as a Senior Systems Analyst at Softwell Solutions (Maker), where I develop and maintain the Maker Platform, a visual development tool for ERP integration.
+## What Will You Find Here?
 
-<div>
-  <a href="https://github.com/zrfisaac" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zrfisaac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrfisaac&layout=compact&langs_count=7&theme=dark"/>
-</div>
+### 1. **Tips and Tools**
+   - **Productivity:** Methods and tools that help me organize my time and tasks.
+   - **Development:** Programming tricks, languages I use, and favorite frameworks.
+   - **Project Management:** Best practices and templates I use in my projects.
 
-## 🛠️ Skills and Technologies
-- **Languages:** Delphi, C#, ASP.NET MVC, Python, HTML, CSS, JavaScript, Bash, SQL
-Databases: SQL Server, PostgreSQL, Oracle, Firebird, MySQL
-- **Frameworks & Tools:** Docker, Git, Bitbucket, FastReport, ActiveQueryBuilder, CEF4Delphi, DevExpress, ReportBuilder, EurekaLog, NSIS, SynEdit, Lazarus
-- **Operating Systems:** Windows, Linux (Debian, ArchLinux, Manjaro, Alpine, Ubuntu)
-Development Tools: Visual Studio Code, VirtualBox, VMware, Wine, InnoSetup, VNC
-- **Design Principles:** Object-Oriented Programming (OOP), SOLID, KISS
-- **Design Patterns:** Factory, Singleton, Observer, Repository, MVC
-- **Other:** JSON, XML, INI, CSV, Windows Registry, Artificial Intelligence, ERP Systems, Endoscopy Recording, Hospital Management Systems
+### 2. **Personal Projects**
+   - Descriptions of the projects I’m working on, with links to repositories, goals, and current status.
 
-## 👨‍💻 Current Work
+### 3. **Learnings**
+   - Summaries of courses and readings.
+   - Complex topics explained simply.
+   - Tips for overcoming challenges I face at work or in studies.
 
-I’m currently working on:
+### 4. **Useful References**
+   - Tools I frequently use.
+   - Links to open-source libraries and resources.
+   - Checklists for programming and organization best practices.
 
-- **Maker Platform:** A visual development tool for ERP systems
+## How Is This Wiki Organized?
 
-## 🎓 Education
-- **Bachelor’s in Information Systems** : Estácio de Sá University (2020)
-- **English Course** : Minds English School (2016)
+The Wiki is divided into main categories, each containing detailed subpages. Use the navigation bar to easily find the content you need. I update this Wiki whenever I learn or develop something new.
 
-## 🌍 Languages
-- **Portuguese:** Native
-- **English:** Advanced
-- **Spanish:** Advanced
+## Contributions and Feedback
 
-## 📫 Contact
-- **Email:** zrfisaac@gmail.com
-- **Website:** [zrfisaac.github.io](https://zrfisaac.github.io)
-- **LinkedIn:** [linkedin.com/in/zrfisaac](https://www.linkedin.com/in/zrfisaac)
+While this Wiki is personal, I’m always open to suggestions and feedback. If you have an idea or tip that you think might help me, feel free to reach out!
+
+📧 **Email:** [zrfisaac@gmail.com](mailto:zrfisaac@gmail.com)  
+🌐 **Portfolio:** [zrfisaac.github.io](https://zrfisaac.github.io)  

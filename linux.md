@@ -1,97 +1,29 @@
-# WSL
+# Linux
 
-Windows Subsystem for Linux (WSL) allows you to run Linux distributions directly on Windows.
-
----
+Linux is an open-source, Unix-like operating system kernel that serves as the foundation for a wide variety of operating systems (known as distributions or distros). Initially developed by Linus Torvalds in 1991, Linux has become one of the most widely used operating systems in the world, powering everything from personal computers and smartphones to servers, supercomputers, and embedded systems.
 
 ## Index
 
-[Commands](#commands)  
- - [Install a Distribution](#install-a-distribution)  
- - [List Installed Distributions](#list-installed-distributions)  
- - [Shutdown All Instances](#shutdown-all-instances)  
- - [Delete a Distribution](#delete-a-distribution)  
-[Additional Tips](#additional-tips)  
-
 ---
 
-## Commands
+## Description of Each Directory in Linux
 
-### Install a Distribution
-
-To install a Linux distribution in WSL, use:
-
-```bash
-wsl --install -d <distribution_name>
-```
-
-**Example**:  
-To install Ubuntu, run:  
-```bash
-wsl --install -d Ubuntu
-```
-
----
-
-### List Installed Distributions
-
-To see all WSL distributions installed on your system, use:  
-
-```bash
-wsl --list --verbose
-```
-
-**Output Example**:
-```
-  NAME      STATE           VERSION
-* Ubuntu    Running         2
-  Debian    Stopped         2
-  kali-linux Stopped        2
-```
-
----
-
-### Shutdown All Instances
-
-To shut down all running WSL instances, use:
-
-```bash
-wsl --shutdown
-```
-
-This command stops all active distributions and clears their memory usage.
-
----
-
-### Delete a Distribution
-
-To remove an installed WSL distribution, use:
-
-```bash
-wsl --unregister <distribution_name>
-```
-
-**Example**:  
-To delete the Ubuntu distribution:  
-```bash
-wsl --unregister Ubuntu
-```
-
----
-
-## Additional Tips
-
-- To check the WSL version, run:
-  ```bash
-  wsl --version
-  ```
-
-- To upgrade an installed distribution to WSL 2:
-  ```bash
-  wsl --set-version <distribution_name> 2
-  ```
-
-- To set WSL 2 as the default version for future installs:
-  ```bash
-  wsl --set-default-version 2
-  ```
+| Directory   | Description                                                                 |
+|-------------|-----------------------------------------------------------------------------|
+| `/`         | The root directory, the starting point of the entire filesystem structure. |
+| `/bin`      | Contains essential system binaries, accessible to all users, such as `ls` and `cp`. |
+| `/boot`     | Contains boot-related files, including the kernel and bootloader (e.g., GRUB). |
+| `/dev`      | Special files representing hardware devices, such as disks (`sda`) and terminals (`tty`). |
+| `/etc`      | System configuration files and initialization scripts for services.         |
+| `/home`     | Users' personal directories, where their files and configurations are stored. |
+| `/lib`      | Shared libraries required by binaries in `/bin` and `/sbin`.               |
+| `/media`    | Mount point for removable devices like USB drives and external disks.      |
+| `/mnt`      | Directory for temporarily mounting filesystems.                            |
+| `/opt`      | Optional software installed manually, typically third-party applications.  |
+| `/proc`     | A virtual filesystem providing information about the kernel and running processes. |
+| `/root`     | The home directory for the `root` superuser, separate from other users.    |
+| `/run`      | Stores volatile runtime data, such as process IDs (PIDs) and sockets.      |
+| `/sbin`     | Essential system binaries for administration, such as `fsck` and `iptables`. |
+| `/tmp`      | Temporary files created by users or processes, usually cleared on reboot.  |
+| `/usr`      | Contains non-essential programs and libraries, including user applications and tools. |
+| `/var`      | Stores variable data like system logs, caches, and print queues.           |
