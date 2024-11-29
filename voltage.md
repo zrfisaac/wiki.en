@@ -1,4 +1,4 @@
-# Voltage Calculation Using Ohm's Law 31
+# Voltage Calculation Using Ohm's Law 32
 
 This guide explains how to calculate **Voltage (V)** using **Ohm's Law**. The formula for voltage is:
 
