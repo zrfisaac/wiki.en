@@ -19,7 +19,7 @@ Explore the history, architecture, and types of CPUs, from their origins to mode
 
 ## Von Neumann Architecture Diagram
 
-```mermaid
+<pre class="mermaid">
 graph TD
     A[Input Unit] --> B[Control Unit]
     B --> C[Arithmetic Logic Unit (ALU)]
@@ -28,7 +28,7 @@ graph TD
     D --> C
     D --> E[Output Unit]
     C --> E
-```
+</pre>
 
 ## Links to Specific CPU Examples  
 
