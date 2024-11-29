@@ -1,54 +1,50 @@
-# Voltage Calculation with Ohm's Law
+# Voltage Calculation Using Ohm's Law
 
 This guide explains how to calculate **Voltage (V)** using **Ohm's Law**. The formula for voltage is:
 
-\\[
+$$
 V = I \cdot R
-\\]
+$$
 
 Where:
-- \\( V \\): Voltage (in Volts),
-- \\( I \\): Current (in Amperes),
-- \\( R \\): Resistance (in Ohms).
-
----
+- \( V \): Voltage (in Volts),
+- \( I \): Current (in Amperes),
+- \( R \): Resistance (in Ohms).
 
 ## Step-by-Step Voltage Calculation
 
-1. **Identify the Current (\\( I \\))**:
+1. **Identify the Current (I):**
    - Measure or find the value of the current in Amperes (A).
-2. **Identify the Resistance (\\( R \\))**:
-   - Measure or find the resistance in Ohms (\\( \Omega \\)).
-3. **Apply the Formula**:
-   - Multiply the current by the resistance to calculate the voltage.
+   
+2. **Identify the Resistance (R):**
+   - Measure or find the resistance in Ohms (Ω).
 
----
+3. **Apply the Formula:**
+   - Multiply the current by the resistance to calculate the voltage.
 
 ## Example Calculation
 
 ### Problem:
-If the current (\\( I \\)) is \\( 3 \, \text{A} \\) and the resistance (\\( R \\)) is \\( 4 \, \Omega \\), calculate the voltage.
+If the current (\( I \)) is \( 3 \, \text{A} \) and the resistance (\( R \)) is \( 4 \, \Omega \), calculate the voltage.
 
 ### Solution:
 Using the formula:
 
-\\[
+$$
 V = I \cdot R
-\\]
+$$
 
 Substitute the values:
 
-\\[
+$$
 V = 3 \cdot 4 = 12 \, \text{V}
-\\]
+$$
 
 Thus, the voltage is:
 
-\\[
+$$
 V = 12 \, \text{Volts}
-\\]
-
----
+$$
 
 ## Visualizing Ohm's Law
 
