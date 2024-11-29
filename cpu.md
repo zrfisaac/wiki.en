@@ -17,6 +17,19 @@ Explore the history, architecture, and types of CPUs, from their origins to mode
 
 ---
 
+## Von Neumann Architecture Diagram
+
+```mermaid
+graph TD
+    A[Input Unit] --> B[Control Unit]
+    B --> C[Arithmetic Logic Unit (ALU)]
+    B --> D[Memory Unit]
+    C --> D
+    D --> C
+    D --> E[Output Unit]
+    C --> E
+```
+
 ## Links to Specific CPU Examples  
 
 Explore detailed examples and assembly guides for specific CPUs:  
