@@ -28,9 +28,6 @@ graph TD
     D --> C
     D --> E[Output Unit]
     C --> E
-</pre>
-    <script type="module">
-      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
 ```
 
 ## Links to Specific CPU Examples  
