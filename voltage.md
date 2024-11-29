@@ -2,6 +2,9 @@
 
 This guide explains how to calculate **Voltage (V)** using **Ohm's Law**. The formula for voltage is:
 
+### Formula
+The formula for calculating voltage is:
+
 $$
 V = I \cdot R
 $$
@@ -52,3 +55,17 @@ Here’s a breakdown of the relationship between Voltage, Current, and Resistanc
 
 - **Voltage (V)** increases if either the **Current (I)** or **Resistance (R)** increases.
 - If **Resistance (R)** is constant, **Voltage (V)** is directly proportional to **Current (I)**.
+
+---
+
+### Example: Other Mathematical Formulas
+
+Here’s an example using the formula:
+
+$$
+\sqrt{3x - 1} + (1 + x)^2
+$$
+
+This equation shows how to handle a square root and a quadratic term in **LaTeX** syntax.
+
+---
