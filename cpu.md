@@ -22,7 +22,7 @@ Explore the history, architecture, and types of CPUs, from their origins to mode
 ```mermaid
 graph TD
     A[Input Unit] --> B[Control Unit]
-    B --> C[Arithmetic Logic Unit (ALU)]
+    B --> C[ALU - Arithmetic Logic Unit]
     B --> D[Memory Unit]
     C --> D
     D --> C
