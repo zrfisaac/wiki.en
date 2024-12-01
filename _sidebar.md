@@ -1,3 +1,4 @@
+- [Agile](agile)
 - [AI](ai)
 - [Alpine](alpine)
 - [Android](android)
@@ -99,6 +100,8 @@
 - [Ruby](ruby)
 - [Tomcat](tomcat)
 - [TypeScript](typescript)
+- [SAFe](safe)
+- [SCRUM](scrum)
 - [SOLID](solid)
 - [SQL Server](mssql)
 - [SQLite](sqlite)
