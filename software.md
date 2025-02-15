@@ -4,7 +4,7 @@
 <!-- # - author : Isaac Caires -->
 <!-- # . - email : zrfisaac@gmail.com -->
 <!-- # . - site : zrfisaac.github.io -->
-<!-- # - version : zrfisaac.wiki.en.software : 0.0.1 -->
+<!-- # - version : zrfisaac.wiki.en.software : 0.0.2 -->
 
 <!-- # [ markdown ] -->
 # Software
@@ -16,22 +16,23 @@ Software is a collection of programs, data, and instructions that enable a compu
 
 ## Index
 
-- [Database](#database)
-  - ODBC Driver for SQL Server :
-      [`18-aarch64`](https://go.microsoft.com/fwlink/?linkid=2281322)
-      [`18-amd64`](https://go.microsoft.com/fwlink/?linkid=2280794)
-      [`18-i386`](https://go.microsoft.com/fwlink/?linkid=2281260)
-      [`17-amd64`](https://go.microsoft.com/fwlink/?linkid=2266337)
-      [`17-i386`](https://go.microsoft.com/fwlink/?linkid=2266446)
-  - OLE DB para SQL Server :
-      [`19-aarch64`](https://go.microsoft.com/fwlink/?linkid=2277846)
-      [`19-amd64`](https://go.microsoft.com/fwlink/?linkid=2278038)
-      [`19-i386`](https://go.microsoft.com/fwlink/?linkid=2278037)
-  - SQL Server Developer :
-      [`2022`](https://download.microsoft.com/download/c/c/9/cc9c6797-383c-4b24-8920-dc057c1de9d3/SQL2022-SSEI-Dev.exe)
-      [`2019`](https://go.microsoft.com/fwlink/?linkid=866662)
-  - SQL Server Management Studio :
-      [`setup`](https://aka.ms/ssmsfullsetup)
+- Database
+  - SQL Server
+    - ODBC Driver for SQL Server :
+        [`18-aarch64`](https://go.microsoft.com/fwlink/?linkid=2281322)
+        [`18-amd64`](https://go.microsoft.com/fwlink/?linkid=2280794)
+        [`18-i386`](https://go.microsoft.com/fwlink/?linkid=2281260)
+        [`17-amd64`](https://go.microsoft.com/fwlink/?linkid=2266337)
+        [`17-i386`](https://go.microsoft.com/fwlink/?linkid=2266446)
+    - OLE DB para SQL Server :
+        [`19-aarch64`](https://go.microsoft.com/fwlink/?linkid=2277846)
+        [`19-amd64`](https://go.microsoft.com/fwlink/?linkid=2278038)
+        [`19-i386`](https://go.microsoft.com/fwlink/?linkid=2278037)
+    - SQL Server Developer :
+        [`2022`](https://download.microsoft.com/download/c/c/9/cc9c6797-383c-4b24-8920-dc057c1de9d3/SQL2022-SSEI-Dev.exe)
+        [`2019`](https://go.microsoft.com/fwlink/?linkid=866662)
+    - SQL Server Management Studio :
+        [`setup`](https://aka.ms/ssmsfullsetup)
 
 - [Debug](#debug)
   - Window Detective :
@@ -41,8 +42,6 @@ Software is a collection of programs, data, and instructions that enable a compu
     [`amd64-github`](https://github.com/lihas/WindowDetective)
 
 ---
-
-## [Database](#index)
 
 ## [Debug](#index)
 
